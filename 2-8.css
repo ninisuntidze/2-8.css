@@ -1,0 +1,53 @@
+#background {
+    padding: 96px;
+
+
+}
+
+#backgroundtwo {
+    max-width: 1412px;
+    padding: 30px;
+    background: #FFAEAF;
+}
+
+#Ourblog {
+    color: #ED00A6;
+    text-align: center;
+    margin-top: 40px;
+
+}
+
+#Resourcesandinsights {
+    color: #181D27;
+    text-align: center;
+}
+
+#divwhite {
+    background-color: white;
+}
+
+#text {
+    color: #535862;
+    text-align: center;
+
+}
+#imgone{
+ width: 600px;
+border-radius: 16px;
+margin-top: 40px;
+padding: 0 20px;
+}
+#imgtwo{
+    width: 600px;
+    margin-top: 40px;
+    border-radius: 16px;
+ text-align: right;
+}
+#imgtwoo{
+    text-align: right;
+    padding: 0 20px;
+}
+#imgthree{
+    width: 600px;
+    padding: 0 20px;
+}
